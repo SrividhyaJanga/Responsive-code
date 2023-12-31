@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your PSD to HTML Site</title>
+</head>
+<body>
+    <!-- Header, Navbar, etc. -->
+
+    <!-- Carousel Section -->
+    <div class="carousel">
+        <!-- Your carousel content goes here -->
+    </div>
+
+    <!-- Tabs Section -->
+    <div class="tabs">
+        <!-- Your tab content goes here -->
+    </div>
+
+    <!-- History Section -->
+    <section id="history">
+        <!-- Content for the History section -->
+    </section>
+
+    <!-- Team Section -->
+    <section id="team">
+        <!-- Content for the Team section -->
+    </section>
+
+    <!-- Footer, Scripts, etc. -->
+</body>
+</html>
